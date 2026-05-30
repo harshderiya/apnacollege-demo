@@ -1,4 +1,5 @@
 # apnacollege-demo
 my first repository
 <br>
-author-harsh
+author-harsh patel
+
